@@ -18,7 +18,7 @@
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
-  "homepage":"https://pshdev1030.gitub.io/QUIZ/",
+  "homepage": "https://pshdev1030.github.io/quiiiz/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
